@@ -13,7 +13,7 @@ sudo dnf groupinstall "Development Tools"
 
 sudo pacman -S base-devel
 
-para ver se deu certo use: 
+# para ver se deu certo use: 
 
 gcc --version
 
