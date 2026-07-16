@@ -27,10 +27,13 @@ depois execute ./ia
 
 pronto voce recebera o link do site!
 
-ou clone o repositorio:
+# ou clone o repositorio:
 
 git clone https://github.com/stickman79/nmapweb
+
 cd nmapweb
+
 gcc ia.c -o ia
+
 ./ia
 
