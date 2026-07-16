@@ -1,4 +1,5 @@
-aviso baixe gcc C++/C
+# aviso!
+baixe gcc C++/C
 
 # 🐧 No Ubuntu, Debian, Linux Mint e derivados:
 
