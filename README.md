@@ -4,6 +4,7 @@ baixe gcc C++/C
 # 🐧 No Ubuntu, Debian, Linux Mint e derivados:
 
 sudo apt update
+
 sudo apt install build-essential
  
 # 🔴 No Fedora, Red Hat (RHEL) e CentOS:
